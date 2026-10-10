@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Priyanshu Sekhar Nanda — founder and full-stack developer building AI, IoT and web products from Bengaluru" width="100%" />
+<img src="./assets/lofi-room.gif" alt="Pixel-art night room: rain on the window, a city skyline, a cat on the sill, a lamp, a steaming mug and code on the monitor" width="100%" />
 
-<br />
+<h1>Hey, I'm Priyanshu Sekhar Nanda 👋</h1>
+
+<p><b>Founder · Full-stack developer · Bengaluru</b><br />I build AI, IoT and realtime web products — and ship them.</p>
 
 <a href="https://github.com/priyanshu18sekhar">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=FF4D1A&center=true&vCenter=true&width=640&lines=Shipping+NEXUS+%E2%80%94+chat%2C+tasks+%26+rule-based+auto-assign;Patented+IoT+tracking+%C2%B7+RAHI;IEI+Drone+Hackathon+winner+%C2%B7+98.9%25+accuracy;Ex-research+fellow+%40+IIT+Madras;Trained+700%2B+students+in+Android+%26+IoT" alt="Typing intro: what I'm building and what I've done" />
@@ -12,14 +14,13 @@
   <a href="https://portfolio-rho-five-0lffjfpgml.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-sekhar-nanda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:priyanshusekharnanda@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=priyanshu18sekhar&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-### 👋 Hey, I'm Priyanshu
+### 🧑‍💻 About me
 
 I'm a **founder and full-stack developer** in Bengaluru, finishing my **B.Tech in Computer Science** at GIET University. I like products that sit where software meets the real world: realtime web apps, IoT tracking, and AI that does one job well.
 
@@ -124,24 +125,12 @@ Right now I'm a **Software Developer at [R2E Technologies](https://rahi.r2e.in)*
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,firebase,git,docker,vercel,unity,raspberrypi&theme=dark" alt="Node.js, Express, Spring, MongoDB, PostgreSQL, Firebase, Git, Docker, Vercel, Unity, Raspberry Pi" />
 </p>
 
-## 📊 GitHub at a glance
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu18sekhar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff4d1a&text_color=f4ede1&icon_color=ff4d1a&ring_color=ff4d1a" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18sekhar&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ff4d1a&text_color=f4ede1" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyanshu18sekhar&hide_border=true&background=0a0a0a&ring=ff4d1a&fire=ff4d1a&currStreakLabel=ff4d1a&sideLabels=f4ede1&currStreakNum=f4ede1&sideNums=f4ede1&dates=8c867c&stroke=262626" alt="Contribution streak" />
-</p>
-
-<!-- SNAKE -->
-
 ---
 
 <div align="center">
 
 **Open to collaborations, freelance builds and interesting problems.** The fastest way to reach me is [email](mailto:priyanshusekharnanda@gmail.com) or [LinkedIn](https://www.linkedin.com/in/priyanshu-sekhar-nanda).
 
-<sub>Banner and terminal are made for this profile · last tweaked Oct 2026</sub>
+<sub>The room and the terminal are pixel-drawn for this profile · last tweaked Oct 2026</sub>
 
 </div>
