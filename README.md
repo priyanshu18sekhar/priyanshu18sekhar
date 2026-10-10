@@ -19,10 +19,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
 ### 👋 Hey, I'm Priyanshu
 
 I'm a **founder and full-stack developer** in Bengaluru, finishing my **B.Tech in Computer Science** at GIET University. I like products that sit where software meets the real world: realtime web apps, IoT tracking, and AI that does one job well.
@@ -34,14 +30,9 @@ Right now I'm a **Software Developer at [R2E Technologies](https://rahi.r2e.in)*
 - 🎤 **Off-screen:** startups, swimming, photography, public speaking
 - 💬 **Ask me about:** shipping MVPs fast, IoT + web, hackathons
 
-</td>
-<td width="48%" valign="top" align="center">
-
-<img src="./assets/terminal.gif" alt="Animated terminal: whoami, what I'm working on, and my wins" width="100%" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/terminal.gif" alt="Animated terminal: whoami, what I'm working on, and my wins" width="720" />
+</p>
 
 ## 🚀 Featured work
 
